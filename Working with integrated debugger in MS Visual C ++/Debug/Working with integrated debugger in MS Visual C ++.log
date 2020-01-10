@@ -1,0 +1,3 @@
+﻿  Second.cpp
+C:\Users\Admin\source\repos\Working with integrated debugger in MS Visual C ++\Working with integrated debugger in MS Visual C ++\Task\Second.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Working with integrated debugger in MS Visual C ++.vcxproj -> C:\Users\Admin\source\repos\Working with integrated debugger in MS Visual C ++\Debug\Working with integrated debugger in MS Visual C ++.exe
